@@ -1,6 +1,6 @@
 package leetcode;
 
-import org.junit.*;
+import airbnb.Flatten2DVectorIterator;
 
 import java.util.ArrayList;
 import java.util.Arrays;

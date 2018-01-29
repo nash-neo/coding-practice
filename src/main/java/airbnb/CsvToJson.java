@@ -1,4 +1,4 @@
-package leetcode;
+package airbnb;
 
 import lombok.NonNull;
 
