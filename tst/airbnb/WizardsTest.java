@@ -12,7 +12,7 @@ public class WizardsTest {
     public void test0() {
         List<List<Integer>> wizards = List.of(
                 List.of(1,4,5), //0
-                List.of(), //1
+                List.of(9), //1
                 List.of(), //2
                 List.of(4), //3
                 List.of(9,3), //4
